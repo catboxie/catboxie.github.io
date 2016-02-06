@@ -1,2 +1,0 @@
-# catboxie.github.io
-CDN
